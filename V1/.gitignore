@@ -1,0 +1,15 @@
+# @mahechacruz.6
+node_modules/
+dist/
+
+# Folder to store the generated files
+FrontEnd
+frontend
+
+*__pycache__
+
+#Other info
+.idea/
+.vscode/
+.DS_Store
+
